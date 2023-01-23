@@ -35,6 +35,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um projeto para ajudar a rastrear os hábitos.
 
+Você pode acessar o projeto online clicando no link:
+ 🔗 (https://marcelosnows.github.io/nlw-setup)
+
 </br>
 
 # 🔖 Layout
